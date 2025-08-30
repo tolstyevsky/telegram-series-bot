@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+series_data.json
+*.log
